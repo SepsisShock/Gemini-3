@@ -1,1 +1,2 @@
-It's not finished yet, just uploading for some people to help me test.
+Read the license.
+And to be updated later.
